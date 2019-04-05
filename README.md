@@ -44,3 +44,7 @@ The project represents an alpha version of a spaceship.
 Módosítom az A branchben ezt itt.
 ITT.
 ITT NEM.
+
+- Szia
+- Ide szeretnék beleírni a B branchről.
+- IDEEEE
