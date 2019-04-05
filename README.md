@@ -40,4 +40,7 @@ The project represents an alpha version of a spaceship.
 **Ez itt egy kis változtatós felsorolás:*
 - Ez még az első változtatásom
 - Ez már egy második bekezdés
-- Szia
+
+Módosítom az A branchben ezt itt.
+ITT.
+ITT NEM.
